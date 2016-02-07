@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for
+upstream remote is used to push information to a remote branch
