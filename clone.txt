@@ -1,1 +1,1 @@
-explain what git clone does
+Clone copies one repository information to another
