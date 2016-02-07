@@ -1,1 +1,1 @@
-Explain what a branch is
+Branching is used to create a new work stream that is separate from the master/others
